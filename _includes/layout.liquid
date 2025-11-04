@@ -1,40 +1,22 @@
+---
+title: 11ty Boilerplate
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ title }} | My EDC</title>
-  <link rel="stylesheet" href="/styles/edc.css">
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="/styles/screen.css">
 </head>
 <body>
-  <header>
-    <div class="container">
-      <h1 class="site-title">My Everyday Carry</h1>
-      <p class="tagline">The essentials I never leave home without</p>
-    </div>
-  </header>
-
   <nav>
-    <div class="container">
-      <ul>
-        <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
-        <li><a href="/glasses/" {% if page.url == "/glasses/" %}class="active"{% endif %}>Glasses</a></li>
-        <li><a href="/keys/" {% if page.url == "/keys/" %}class="active"{% endif %}>Keys</a></li>
-        <li><a href="/phone/" {% if page.url == "/phone/" %}class="active"{% endif %}>Phone</a></li>
-      </ul>
-    </div>
+    <ul>
+      <li><a href="/" title="Go home">Home</a></li>
+      <li><a href="/about/" title="About the boilerplate">About</a></li>
+    </ul>
   </nav>
-
-  <main>
-    <div class="container">
-      {{ content }}
-    </div>
-  </main>
-
-  <footer>
-    <div class="container">
-      <p>&copy; 2024 My EDC Collection | Never leave home unprepared</p>
-    </div>
-  </footer>
+    {{ content }}
 </body>
 </html>
