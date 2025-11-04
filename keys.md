@@ -5,7 +5,7 @@ title: My Keys
 
 <div class="item-detail">
   <div class="item-hero">
-    <img src="/images/keys.jpg" alt="My keychain with house, car, and office keys" class="detail-image">
+    <img src="/images/keys.jpeg" alt="My keychain with house, car, and office keys" class="detail-image">
   </div>
 
   <div class="item-info">

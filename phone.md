@@ -5,7 +5,7 @@ title: My Phone
 
 <div class="item-detail">
   <div class="item-hero">
-    <img src="/images/phone.jpg" alt="My smartphone" class="detail-image">
+    <img src="/images/phone.jpeg" alt="My smartphone" class="detail-image">
   </div>
 
   <div class="item-info">

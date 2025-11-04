@@ -5,7 +5,7 @@ title: My Glasses
 
 <div class="item-detail">
   <div class="item-hero">
-    <img src="/images/glasses.jpg" alt="My prescription glasses" class="detail-image">
+    <img src="/images/glasses.jpeg" alt="My prescription glasses" class="detail-image">
   </div>
 
   <div class="item-info">
