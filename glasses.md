@@ -15,8 +15,7 @@ title: My Glasses
       <h3>Specifications</h3>
       <ul>
         <li><strong>Type:</strong> Prescription eyeglasses</li>
-        <li><strong>Frame:</strong> Black rectangular frames</li>
-        <li><strong>Lens:</strong> Anti-reflective coating</li>
+        <li><strong>Frame:</strong> Black  frames</li>
         <li><strong>Prescription:</strong> -3.50 both eyes</li>
       </ul>
     </div>

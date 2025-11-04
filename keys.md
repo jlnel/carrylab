@@ -16,9 +16,8 @@ title: My Keys
       <ul>
         <li><strong>House key:</strong> Front door access</li>
         <li><strong>Car key:</strong> Vehicle access and ignition</li>
-        <li><strong>Office key:</strong> Workplace building access</li>
-        <li><strong>Mailbox key:</strong> Because bills don't stop</li>
-        <li><strong>Bottle opener:</strong> For emergencies</li>
+        <li><strong>Airpods:</strong> For listening to music or being on phone calls privately</li>
+        <li><strong>Wallet:</strong> Holds identification and money</li>
       </ul>
     </div>
 

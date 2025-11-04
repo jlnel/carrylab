@@ -14,11 +14,10 @@ title: My Phone
     <div class="specs">
       <h3>Specifications</h3>
       <ul>
-        <li><strong>Device:</strong> Modern smartphone</li>
+        <li><strong>Device:</strong> iPhone 16 Plus</li>
         <li><strong>Storage:</strong> 128GB</li>
-        <li><strong>Case:</strong> Protective case with card holder</li>
-        <li><strong>Screen protector:</strong> Tempered glass</li>
-        <li><strong>Most used apps:</strong> Messages, Email, Maps, Camera</li>
+        <li><strong>Case:</strong> Pink with sticker on it</li>
+        <li><strong>Most used apps:</strong> Messages, Maps, Camera</li>
       </ul>
     </div>
 
